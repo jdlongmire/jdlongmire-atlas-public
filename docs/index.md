@@ -9,6 +9,13 @@ The public index of the work of **James (JD) Longmire**: Senior Technical Fellow
 
 This page is the quick reference: the public programs, the publications, and the links. It is curated from the private Atlas, the full map and record of the work. Nothing private is published here.
 
+## External work
+
+- **oddXian** (apologetics ministry and blog): [oddxian.com](https://oddxian.com)
+- **Thinx-Tank** (blog: IT, the digital enterprise, and AI): [blog.thinxai.net](https://blog.thinxai.net)
+- **GitHub**: [github.com/jdlongmire](https://github.com/jdlongmire)
+- **ORCID**: [orcid.org/0009-0009-1383-7698](https://orcid.org/0009-0009-1383-7698)
+
 ## Public programs
 
 - **Thinx-Tank**: a public blog on IT, the digital enterprise, and AI. [blog.thinxai.net](https://blog.thinxai.net)
